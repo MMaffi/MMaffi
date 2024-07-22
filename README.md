@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=008000&fontAlignY=25"/>
 
 ### 👋 Eae! Eu sou o Mateus Maffi 👋
 
@@ -37,3 +38,5 @@
     <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" >
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=008000&fontAlignY=25&section=footer"/>
