@@ -8,8 +8,10 @@
 
 <br>
 
-#### 👁️👁️ Viwers 👁️👁️
-[![Viwers](https://img.shields.io/github/watchers/MMaffi/MMaffi.svg)]()
+<div>
+<br><p><b>Viewers</b></p>  
+<p><img align="center" src="https://profile-counter.glitch.me/{MMaffi}/count.svg" /></p> 
+<br></div>
 
 <br>
 
