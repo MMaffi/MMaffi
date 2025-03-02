@@ -36,7 +36,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MMaffi&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MMaffi&theme=radical" alt="Streak de Contribuições" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMaffi&layout=compact&theme=radical" alt="Linguagens Mais Usadas" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMaffi&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
   <img src="https://github-profile-trophy.vercel.app/?username=MMaffi&theme=radical&no-bg=true" alt="Conquistas do GitHub" />
 </p>
 
