@@ -14,7 +14,7 @@
 
 <h3 title="Sobre mim"> 🔥 About Me: </h3>
 
-<h3 align="center" title="Desenvolvedor Full Stack | Cientista de Dados | Apaixonado por tecnologia e inovação"><strong>🎯 Full Stack Developer | 🧠 Data Scientist | 🚀 Passionate about technology and innovation</strong></h3>
+<h3 align="center" title="Desenvolvedor Full Stack | Apaixonado por tecnologia e inovação"><strong>🎯 Full-Stack Developer | 🚀 Passionate about technology and innovation</strong></h3>
 
 <p align="center" title="Sou um profissional altamente qualificado, com experiência no desenvolvimento de sistemas completos, abrangendo front-end e back-end. Possuo sólida expertise em análise de dados, ciência de dados e machine learning, aplicando metodologias avançadas para extração de insights estratégicos.">I am a highly qualified professional, with experience in developing <strong>full systems</strong>, covering <strong>front-end</strong> and <strong>back-end</strong>. I have solid expertise in <strong>data analysis</strong>, <strong>data science</strong>, and <strong>machine learning</strong>, applying advanced methodologies to extract strategic insights.</p>
 
