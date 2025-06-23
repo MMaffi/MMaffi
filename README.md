@@ -3,7 +3,7 @@
 <h1 align="center" title="Bem vindo ao meu perfil!">🌟 Welcome to my profile! 🌟</h1>
 
 <p align="center" title="Full-Stack Developer 💻 | Constant Evolution 📚">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%234FC08D&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;Data+Scientist+🧠;Constant+Evolution+📚"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%234FC08D&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;Constant+Evolution+📚"/>
 </p>
 
 <p align="center">
