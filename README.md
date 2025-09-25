@@ -22,6 +22,53 @@
 
 ---
 
+<h3 title="Presença Digital Profissional para seu Negócio">🚀 Professional Digital Presence for Your Business:</h3>
+
+<p align="center" title="Eu crio sites modernos, otimizados e responsivos que transformam visitantes em clientes. Soluções completas de front-end para empresas que desejam se destacar online.">
+  I create <strong style="color:#4FC08D;">modern, optimized, and responsive websites</strong> that turn visitors into customers.<br>
+  Complete front-end solutions for businesses that want to stand out online.
+</p>
+
+<p align="center" title="Mais visibilidade, otimização móvel e carregamento rápido.">
+  📈 <strong>More Visibility:</strong> A professional website increases your credibility and makes your business discoverable 24/7.<br>
+  📱 <strong>Mobile Optimized:</strong> Over 60% of traffic comes from mobile devices. Your site will look perfect on any screen.<br>
+  ⚡ <strong>Fast Loading:</strong> Fast websites improve user experience and Google ranking.
+</p>
+
+<h3 align="center" title="Soluções Personalizadas para Diferentes Necessidades">📌 Customized Solutions for Different Needs</h3>
+<p align="center" title="Portfólios profissionais, sites institucionais, landing pages, páginas de vendas e microsites personalizados.">
+  💻 Professional portfolios • 🏢 Institutional websites • 📢 Landing pages • 🛒 Sales pages<br>
+  ⚡ Campaign microsites • 📅 Event pages • 🔗 Custom microsites • 📝 Static blogs
+</p>
+
+<h3 align="center" title="Como Funciona o Processo">💼 How the Process Works</h3>
+<p align="center" title="Consulta inicial, proposta personalizada, desenvolvimento e entrega do site.">
+  1️⃣ <strong>Initial Consultation:</strong> We analyze your needs and goals<br>
+  2️⃣ <strong>Custom Proposal:</strong> We create a specific plan for your project<br>
+  3️⃣ <strong>Development:</strong> We implement design and functionality<br>
+  4️⃣ <strong>Delivery:</strong> Your website ready with free hosting included
+</p>
+
+<h3 align="center" title="Pronto para Transformar sua Presença Digital?">📌 Ready to Transform Your Digital Presence?</h3>
+<p align="center" title="Vamos construir juntos um site que não apenas tenha uma aparência incrível, mas que também entregue resultados reais.">
+  Let’s build together a website that not only looks amazing but also delivers real results.<br>
+  ✅ Free hosting included: <strong>Netlify or Vercel</strong>.
+</p>
+
+<p align="center">
+  <a href="mailto:mm.maffi@outlook.com?subject=Quero um site profissional&body=Olá MMaffi, vi seu portfólio e tenho interesse em criar um site." 
+     style="display:inline-block;padding:10px 20px;background:#4FC08D;color:white;border-radius:5px;text-decoration:none;font-weight:bold;"
+     title="Solicite um orçamento">
+     📧 Request a Quote
+  </a>
+</p>
+
+<p align="center" style="font-size:12px;color:#bbb;" title="Websites entregues com qualidade e suporte inicial após a entrega">
+  ⚡ Websites delivered with quality and initial post-delivery support
+</p>
+
+---
+
 <a href="https://github.com/Jurredr/github-widgetbox">
   <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=MMaffi&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub WirdgetBox" />
   <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,c,r,xml,json,mysql,powershell&frameworks=vue,react,django&libraries=jquery&tools=git,npm,mongodb,nodejs,jupyter&software=windows,linux,vscode&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" />
