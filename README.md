@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:mm.maffi@outlook.com?subject=Quero um site profissional&body=Olá MMaffi, vi seu portfólio e tenho interesse em criar um site." 
+  <a href="mailto:mmaffi.dev@outlook.com?subject=Quero um site profissional&body=Olá MMaffi, vi seu portfólio e tenho interesse em criar um site." 
      style="display:inline-block;padding:10px 20px;background:#4FC08D;color:white;border-radius:5px;text-decoration:none;font-weight:bold;"
      title="Solicite um orçamento">
      📧 Request a Quote
