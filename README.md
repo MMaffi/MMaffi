@@ -1,117 +1,204 @@
-<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="Hello Gif">
+<div align="center">
 
-<h1 align="center" title="Bem vindo ao meu perfil!">🌟 Welcome to my profile! 🌟</h1>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=MMaffi&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descSize=18&descAlignY=58&descColor=a8d8ea&animation=fadeIn" />
 
-<p align="center" title="Full-Stack Developer 💻 | Constant Evolution 📚">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%234FC08D&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;Constant+Evolution+📚"/>
+<!-- Typing Animation -->
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=4FC08D&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+scalable+systems+%F0%9F%9A%80;Data-driven+solutions+%F0%9F%93%8A;Front-end+%2B+Back-end+expertise+%F0%9F%92%BB;Always+learning%2C+always+evolving+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="500" alt="Outro GIF">
-</p>
-
----
-
-<h3 title="Sobre mim"> 🔥 About Me: </h3>
-
-<h3 align="center" title="Desenvolvedor Full Stack | Apaixonado por tecnologia e inovação"><strong>🎯 Full-Stack Developer | 🚀 Passionate about technology and innovation</strong></h3>
-
-<p align="center" title="Sou um profissional altamente qualificado, com experiência no desenvolvimento de sistemas completos, abrangendo front-end e back-end. Possuo sólida expertise em análise de dados, ciência de dados e machine learning, aplicando metodologias avançadas para extração de insights estratégicos.">I am a highly qualified professional, with experience in developing <strong>full systems</strong>, covering <strong>front-end</strong> and <strong>back-end</strong>. I have solid expertise in <strong>data analysis</strong>, <strong>data science</strong>, and <strong>machine learning</strong>, applying advanced methodologies to extract strategic insights.</p>
-
-<p align="center" title="Tenho grande interesse em codificação, otimização de processos e no desenvolvimento de produtos que possam gerar impacto positivo no cotidiano das pessoas.">I have a great interest in <strong>coding</strong>, <strong>process optimization</strong>, and in developing <strong>products</strong> that can have a positive impact on people's daily lives.</p>
-
----
-
-<h3 title="Presença Digital Profissional para seu Negócio">🚀 Professional Digital Presence for Your Business:</h3>
-
-<p align="center" title="Eu crio sites modernos, otimizados e responsivos que transformam visitantes em clientes. Soluções completas de front-end para empresas que desejam se destacar online.">
-  I create <strong style="color:#4FC08D;">modern, optimized, and responsive websites</strong> that turn visitors into customers.<br>
-  Complete front-end solutions for businesses that want to stand out online.
-</p>
-
-<p align="center" title="Mais visibilidade, otimização móvel e carregamento rápido.">
-  📈 <strong>More Visibility:</strong> A professional website increases your credibility and makes your business discoverable 24/7.<br>
-  📱 <strong>Mobile Optimized:</strong> Over 60% of traffic comes from mobile devices. Your site will look perfect on any screen.<br>
-  ⚡ <strong>Fast Loading:</strong> Fast websites improve user experience and Google ranking.
-</p>
-
-<h3 align="center" title="Soluções Personalizadas para Diferentes Necessidades">📌 Customized Solutions for Different Needs</h3>
-<p align="center" title="Portfólios profissionais, sites institucionais, landing pages, páginas de vendas e microsites personalizados.">
-  💻 Professional portfolios • 🏢 Institutional websites • 📢 Landing pages • 🛒 Sales pages<br>
-  ⚡ Campaign microsites • 📅 Event pages • 🔗 Custom microsites • 📝 Static blogs
-</p>
-
-<h3 align="center" title="Como Funciona o Processo">💼 How the Process Works</h3>
-<p align="center" title="Consulta inicial, proposta personalizada, desenvolvimento e entrega do site.">
-  1️⃣ <strong>Initial Consultation:</strong> We analyze your needs and goals<br>
-  2️⃣ <strong>Custom Proposal:</strong> We create a specific plan for your project<br>
-  3️⃣ <strong>Development:</strong> We implement design and functionality<br>
-  4️⃣ <strong>Delivery:</strong> Your website ready with free hosting included
-</p>
-
-<h3 align="center" title="Pronto para Transformar sua Presença Digital?">📌 Ready to Transform Your Digital Presence?</h3>
-<p align="center" title="Vamos construir juntos um site que não apenas tenha uma aparência incrível, mas que também entregue resultados reais.">
-  Let’s build together a website that not only looks amazing but also delivers real results.<br>
-  ✅ Free hosting included: <strong>Netlify or Vercel</strong>.
-</p>
-
-<p align="center">
-  <a href="mailto:mmaffi.dev@outlook.com?subject=Quero um site profissional&body=Olá MMaffi, vi seu portfólio e tenho interesse em criar um site." 
-     style="display:inline-block;padding:10px 20px;background:#4FC08D;color:white;border-radius:5px;text-decoration:none;font-weight:bold;"
-     title="Solicite um orçamento">
-     📧 Request a Quote
+<!-- Social Badges -->
+<p>
+  <a href="https://www.linkedin.com/in/mateus-maffi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/MMaffi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://mmaffi.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4FC08D?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:mmaffi.dev@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
 
-<p align="center" style="font-size:12px;color:#bbb;" title="Websites entregues com qualidade e suporte inicial após a entrega">
-  ⚡ Websites delivered with quality and initial post-delivery support
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=MMaffi&label=Profile+Views&color=4FC08D&style=flat-square" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+
+I'm a **Full-Stack Developer** based in Brazil, passionate about building systems that are both technically solid and genuinely useful. I combine front-end craftsmanship with back-end architecture, and I bring a data science mindset to every project — turning raw information into strategic insight.
+
+- 🔭 Currently working on **full-stack web systems** and **data pipelines**
+- 🌱 Deepening expertise in **Machine Learning** and **Cloud Architecture**
+- 💡 Passionate about **process automation** and **scalable solutions**
+- 🚀 Always exploring the intersection of **software engineering** and **data science**
+- 📫 Reach me at **mmaffi.dev@outlook.com**
+- 🌐 Portfolio: **[mmaffi.github.io](https://mmaffi.github.io)**
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 🤖 Data Science & ML
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+### 🔧 Tools & Workflow
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/MMaffi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MMaffi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMaffi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</a>
+
+<br/>
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MMaffi&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC08D&ring=4FC08D&fire=ff652f&currStreakLabel=4FC08D" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MMaffi&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4FC08D&line=4FC08D&point=ffffff" width="100%"/>
+
+</div>
+
+---
+
+## 🚀 Professional Web Solutions
+
+<table>
+<tr>
+<td width="50%">
+
+### What I Build
+- 💻 **Professional Portfolios** — Showcase your work with impact
+- 🏢 **Institutional Websites** — Establish your brand online
+- 📢 **Landing Pages** — High-converting, performance-optimized
+- 🛒 **Sales Pages** — Designed to convert visitors into customers
+- ⚡ **Campaign Microsites** — Fast, focused, effective
+- 📅 **Event Pages** — Engage your audience before and during
+
+</td>
+<td width="50%">
+
+### Why It Matters
+- 📈 **24/7 Visibility** — Your business never sleeps online
+- 📱 **Mobile-First** — 60%+ of traffic is mobile; every screen covered
+- ⚡ **Performance** — Fast loads mean better UX and SEO rankings
+- ✅ **Free Hosting** — Deployed on Netlify or Vercel, included
+- 🔧 **Post-Delivery Support** — I don't disappear after launch
+- 🎯 **Goal-Oriented** — Built to get results, not just look good
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### How It Works
+
+```
+1️⃣  Initial Consultation  →  2️⃣  Custom Proposal  →  3️⃣  Development  →  4️⃣  Delivery & Support
+     Understand your goals       Plan your project       Build & refine       Launch + free hosting
+```
+
+<br/>
+
+<a href="mailto:mmaffi.dev@outlook.com?subject=Quero um site profissional&body=Olá Mateus, vi seu perfil e tenho interesse em criar um site.">
+  <img src="https://img.shields.io/badge/📧%20Request%20a%20Quote-4FC08D?style=for-the-badge&logoColor=white" height="40" />
+</a>
+
+</div>
+
+---
+
+## 🌐 GitHub Profile Widget
+
 <a href="https://github.com/Jurredr/github-widgetbox">
-  <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=MMaffi&data=followers,repositories,stars,commits&theme=viridescent" alt="GitHub WirdgetBox" />
-  <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,c,r,xml,json,mysql,powershell&frameworks=vue,react,django&libraries=jquery&tools=git,npm,mongodb,nodejs,jupyter&software=windows,linux,vscode&includeNames=true&theme=viridescent" alt="GitHub WidgetBox" />
+  <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=MMaffi&data=followers,repositories,stars,commits&theme=viridescent" />
+  <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,html,css,c,r,xml,json,mysql,powershell&frameworks=vue,react,django&libraries=jquery&tools=git,npm,mongodb,nodejs,jupyter&software=windows,linux,vscode&includeNames=true&theme=viridescent" />
 </a>
 
 ---
 
-<h3 title="Estatísticas do GitHub"> 📊 GitHub Statistics: </h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MMaffi&label=Viewers&color=blue&style=flat" alt="Contador de Visitantes"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MMaffi&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MMaffi&theme=radical" alt="Streak de Contribuições" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMaffi&layout=compact&theme=radical" alt="Linguagens Mais Usadas" /> -->
-  <img src="https://github-profile-trophy.vercel.app/?username=MMaffi&theme=radical&no-bg=true" alt="Conquistas do GitHub" />
-</p>
+<div align="center">
 
----
+### Let's Connect
 
-<h3 title="Meu Portifólio"> 🌎 My Portfolio: </h3>
-<p align="center">
+<p>
+  <a href="https://www.linkedin.com/in/mateus-maffi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://mmaffi.github.io" target="_blank">
-    <img src="https://img.shields.io/website?label=MMaffi.github.io&style=for-the-badge&url=https://MMaffi.github.io" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4FC08D?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:mmaffi.dev@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
 
----
+<br/>
 
-<h3 title="Como me encontrar"> 📫 How to find me: </h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/mateus-maffi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/MMaffi/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="500" alt="Outro GIF">
-</p>
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" />
 
----
-
-<h2 align="center" title="O aprendizado nunca termina! Sempre buscando novos desafios.">✨ Learning never ends! Always seeking new challenges. ✨</h2>
-
-<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" alt="Hello Gif">
+</div>
