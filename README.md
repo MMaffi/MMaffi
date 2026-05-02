@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=MMaffi&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descSize=18&descAlignY=58&descColor=a8d8ea&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=MMaffi&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst&descSize=18&descAlignY=58&descColor=a8d8ea&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <p>
@@ -35,12 +35,11 @@
 
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
-I'm a **Full-Stack Developer** based in Brazil, passionate about building systems that are both technically solid and genuinely useful. I combine front-end craftsmanship with back-end architecture, and I bring a data science mindset to every project — turning raw information into strategic insight.
+I'm a **Full-Stack Developer** based in Brazil, passionate about building systems that are both technically solid and genuinely useful. I combine front-end craftsmanship with back-end architecture, and I bring a data analyst mindset to every project — turning raw information into strategic insight.
 
 - 🔭 Currently working on **full-stack web systems** and **data pipelines**
-- 🌱 Deepening expertise in **Machine Learning** and **Cloud Architecture**
 - 💡 Passionate about **process automation** and **scalable solutions**
-- 🚀 Always exploring the intersection of **software engineering** and **data science**
+- 🚀 Always exploring the intersection of **software engineering** and **data analyst**
 - 📫 Reach me at **mmaffi.dev@outlook.com**
 - 🌐 Portfolio: **[mmaffi.github.io](https://mmaffi.github.io)**
 
